@@ -33,7 +33,11 @@ body {
     margin-bottom: 20px;
     animation: zoomIn 1s ease-in-out;
 }
-
+.signature1 {
+    margin-top: 30px;
+    font-size: 1.5em;
+    color: #f500ace0;
+}
 .content {
     font-size: 1.2em;
     line-height: 1.5;
@@ -47,7 +51,7 @@ body {
     animation-delay: 0.5s;
 }
 
-.signature {
+.signature2 {
     margin-top: 30px;
     font-size: 1.5em;
     color: #e91e63;
